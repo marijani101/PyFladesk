@@ -31,6 +31,8 @@ Note: Both PyQt4 and PyQt5.6 are only made available for compatibility reasons, 
 If you want to install PyFladesk with pip you just run.
 
 `pip install pyfladesk`
+`pip install pyqt5 ==5.12`
+`pip install pyqtwebengine ==5.12`
 
 Only the latest version (PyQt5.10) is uploaded to PyPI. If you want to use a legacy version check the instructions in the corresponding branch readme. Each version is maintained in a different form due to versions issues so you should check the readme of the branch of the version you want to use.
 
